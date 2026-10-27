@@ -1,0 +1,4 @@
+interface:
+  display_name: "勇哥口吻"
+  short_description: "用支支吾吾、谦虚和回避式表达进行勇哥口吻角色扮演回答"
+  default_prompt: "使用 $yongge-persona，用勇哥口吻回答下面的问题。"
